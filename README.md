@@ -86,14 +86,3 @@ It demonstrates both:
 - Create a strong portfolio piece for recruiters  
 
 ---
-
-## 📸 Screenshots
-<img width="1898" height="682" alt="image" src="https://github.com/user-attachments/assets/8372c4ea-e3f4-498a-8e5b-e55768813701" />
-<img width="1897" height="573" alt="image" src="https://github.com/user-attachments/assets/218b9f5a-9d63-4431-b9b8-8e8a4d498e34" />
-<img width="1897" height="415" alt="image" src="https://github.com/user-attachments/assets/6836d10e-2cf4-4fb8-8669-572ad22fb07c" />
-<img width="1900" height="585" alt="image" src="https://github.com/user-attachments/assets/7cb78fe8-e1e2-474d-b1e3-b1e93399d039" />
-<img width="1907" height="729" alt="image" src="https://github.com/user-attachments/assets/cd216af9-07e3-4060-a3eb-9da61d3f8e9f" />
-<img width="1897" height="535" alt="image" src="https://github.com/user-attachments/assets/43748d58-8476-4bc3-bc37-602147bf4949" />
-<img width="1897" height="710" alt="image" src="https://github.com/user-attachments/assets/f0ecf448-39fd-4a75-b2a6-104434ee963f" />
-
----
